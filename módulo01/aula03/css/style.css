@@ -1,0 +1,13 @@
+/*Seletor Universal:
+Comportamento inicial, todos*/
+*{margin: 0; padding: 0;}
+
+/*Seletor Tag:
+Apenas para a tag específica*/
+p{color: green; font-size: 12px;}
+
+/*Seletor Atributo:
+Sendo diversos tipos*/
+input[type="text"]{width: 200px; background-color: #ccc; height: 35px; border: none;}
+input[name ="email"]{width: 200px; background-color: #ccc; height: 35px; border: none;}
+input[type="submit"]{width: 50px; background-color: green; height: 35px; border: none; cursor: pointer; color: #fff;}
