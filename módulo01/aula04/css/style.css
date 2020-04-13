@@ -1,0 +1,4 @@
+/*Agrupamos seletores utilizando a vírgula */
+h1,h2,p{
+    color:red; text-align: center;
+}
