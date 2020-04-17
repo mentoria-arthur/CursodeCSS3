@@ -1,0 +1,16 @@
+/*Pode ser utilizado: px, %, cm, (etc...)*/
+#conteudo{
+    width: 80%; /*Largura fixa */
+    height: 100px; /*Altura fixa*/
+    background-color: rgb(75, 202, 75); color: #fff; padding: 20px;
+}
+.conteudo2{
+    max-width: 500px; /*Largura máxima*/
+    max-height: 60px; /*Altura máxima*/
+    background-color: rgb(40, 135, 224); color: #fff; padding: 20px;
+}
+.conteudo3{
+    min-width: 500px; /*Largura mínima*/
+    min-height: 30px; /*Altura mínima*/
+    background-color: rgb(204, 64, 83); color: #fff; padding: 20px;
+}
