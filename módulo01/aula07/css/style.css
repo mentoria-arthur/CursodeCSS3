@@ -1,0 +1,22 @@
+#exemplo{
+    background-color: rgb(62, 173, 62); 
+    color: #fff;
+
+    padding: 10px 20px 20px 30px; /*Espaçamento interno*/
+
+    width: 500px;
+    /*Somando o padding-left e -right com o widht = 550px de largura
+    */
+     height: 80px;
+    /* 
+    E o padding-top e -bottom com o height = 110px de altura
+    */    
+}
+#exemplo2{
+    background-color: rgb(99, 83, 243);
+    color: #fff;
+    width: 500px;
+    padding: 10px 0px 10px 20px;
+
+    margin: 20px 30px 20px 30px;/*Espaçamento externo*/
+}
