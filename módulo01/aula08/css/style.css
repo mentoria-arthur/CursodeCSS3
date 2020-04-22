@@ -1,0 +1,17 @@
+p{color: red;/*Cor do texto*/
+  text-transform: capitalize;/*Transformação do texto*/
+}  
+
+h1{text-align: left;/*Alinhamento dos textos*/ 
+   text-decoration: underline;/*Decoração do texto*/
+   text-transform: uppercase;/*Transformação do texto*/
+
+}
+h2{text-align: right;/*Alinhamento dos textos*/
+   text-decoration: overline;/*Decoração do texto*/
+   text-transform:  lowercase;/*Transformação do texto*/
+} 
+
+h3{text-align: center;/*Alinhamento dos textos*/
+   text-decoration: line-through;/*Decoração do texto*/
+} 
